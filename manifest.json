@@ -1,0 +1,22 @@
+{
+  "name": "Movie21 Streaming Platform",
+  "short_name": "Movie21",
+  "description": "Platform Streaming Film & Series Gratis Terlengkap",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#141414",
+  "theme_color": "#e50914",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "1233.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "3221.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
